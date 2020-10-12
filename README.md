@@ -156,7 +156,9 @@ ARMAR HAMBURGUESA(){
 <br>
 }
 <br>
+# En la siguiente imágen se indican con flechas la secuencia que se lleva a cabo en el pseudocódigo
 
-![](/SECUENCIA.png)
+
+
 
 
