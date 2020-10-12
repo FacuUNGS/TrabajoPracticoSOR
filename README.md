@@ -157,8 +157,6 @@ ARMAR HAMBURGUESA(){
 }
 <br>
 
-En la siguiente imagen se ve clara la secuencia que lleva a cabo el pseudocodigo mostrado:
-
-<img src = "SECUENCIA.png">
+![](/SECUENCIA.png)
 
 
