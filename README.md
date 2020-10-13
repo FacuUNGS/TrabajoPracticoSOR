@@ -154,9 +154,9 @@ main{
 <br>
 }
 <br>
-#### En la siguiente imágen se indican con flechas la secuencia que se lleva a cabo en el pseudocódigo
+### En la siguiente imágen se indican con flechas la secuencia que se lleva a cabo en el pseudocódigo
 <br>
 <img src = "SECUENCIA.png">
 <br>
-#### Prueba de escritorio 
+### Prueba de escritorio 
 <img src = "prueba de escritorio.png">
