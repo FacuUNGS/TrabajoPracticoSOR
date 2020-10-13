@@ -159,4 +159,5 @@ main{
 <img src = "SECUENCIA.png">
 <br>
 ### Prueba de escritorio 
+<br>
 <img src = "prueba de escritorio.png">
