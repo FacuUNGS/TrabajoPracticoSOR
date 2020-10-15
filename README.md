@@ -164,7 +164,7 @@ main{
 <img src = "prueba de escritorio.png">
 
 ### Conclusión:
-En sintesis la utilización de semaforos en conjunto de hilos se presta como una gran herramienta para el desarrollo de software. Si bien a primera vista no es una herramienta 
+En sintesis la utilización de semaforos en conjunto de hilos se presta como una gran herramienta para el desarrollo de software. Si bien a primera vista no es  
 sencilla de utilizar pues, diversos inconvenientos se presentaron durante la relalización del trabajo. la realidad es que con una correcta busqueda de informacion las posibilidades de su aprendizaje y aprovechamiento son enormes. 
 
 
